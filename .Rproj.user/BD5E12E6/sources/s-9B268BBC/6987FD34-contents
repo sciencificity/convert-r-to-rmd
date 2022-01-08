@@ -1,9 +1,6 @@
----
-title: "Convert R file to Rmd file"
-author: "Vebash Naidoo"
-date: "08/01/2022"
-output: html_document
----
+<h1>Convert R file to Rmd file</h1>
+<h3>Author: Vebash Naidoo</h3>
+<h4>Date created: 2022/01/08</h4>
 
 If you, like me, enjoy working with RMarkdown files you will perhaps be searching
 for a way to convert an R file you receive via a course, a tutorial,

@@ -1,0 +1,13 @@
+# Using the native pipe ----
+## A few examples ----
+
+mtcars |>  
+    subset(cyl == 6) |>
+    head(10)
+
+# Example from Jumping rivers post
+# https://www.jumpingrivers.com/blog/new-features-r410-pipe-anonymous-functions/
+
+rnorm(100, mean = 4, sd = 1) |>
+    density() |>
+    plot()
